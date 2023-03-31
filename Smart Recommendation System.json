@@ -1,0 +1,1878 @@
+[
+    {
+        "id": "17aeee3e892bcdce",
+        "type": "tab",
+        "label": "Smart Recommendation App",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3f8d848065152ff8",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "UI",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "51717be2aeafb7e3",
+            "af383bb572443197",
+            "108a40c0d9e77e90",
+            "87b093b480d7a68d",
+            "d0973ddc76666f48",
+            "0b5dfb99c775da5b",
+            "0663192a6bb01724"
+        ],
+        "x": 1624,
+        "y": 59,
+        "w": 362,
+        "h": 282
+    },
+    {
+        "id": "15f834b9d1c20ab3",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Pressure Change Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "aedb8395624ec620",
+            "4ae1ea96c013f03e",
+            "94b2ef638a5a4895",
+            "1e5c69fe01829a6a",
+            "93c9eb09c0d958b5",
+            "04433637f0f3f178",
+            "f60ad8c56de41936",
+            "55f2a22043682aad",
+            "2c9fa3323591b92b",
+            "3fb9575c4cdc0985",
+            "724e8708b064fed3",
+            "ca42a32388fb2b7a",
+            "12d181f7981a2607",
+            "09a4a93d6d6409d2",
+            "086ad730535156cb"
+        ],
+        "x": 14,
+        "y": 379,
+        "w": 1072,
+        "h": 462
+    },
+    {
+        "id": "64a4a5965badf4ac",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Data Import",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "d3c0168bace35fbf",
+            "b20664da0206b0f6",
+            "c82a4f3d8f2a2207",
+            "d46817781f9a9a0f",
+            "9858fab54cf4bdf7",
+            "96b72673a5ddc06f",
+            "045eb55db0f452f6"
+        ],
+        "x": 14,
+        "y": 219,
+        "w": 1072,
+        "h": 122
+    },
+    {
+        "id": "e3369c7123ecbc02",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Temperature Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a12de30f5228aa44",
+            "b55cdaee68b608a7",
+            "2c94d7e3e16aeb8c"
+        ],
+        "x": 1124,
+        "y": 159,
+        "w": 462,
+        "h": 82
+    },
+    {
+        "id": "b6ec5785fdb05eb0",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Array Initiation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5388be901dd5dc59",
+            "4f1ffbfecd345483",
+            "d6bae650d5696abd",
+            "aae827721697ca6d"
+        ],
+        "x": 14,
+        "y": 59,
+        "w": 432,
+        "h": 122
+    },
+    {
+        "id": "7c2122dcf0d5956c",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Remote Connection",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2e179b1dbd70f007"
+        ],
+        "x": 514,
+        "y": 99,
+        "w": 212,
+        "h": 82
+    },
+    {
+        "id": "f918e466997042a7",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Precipitation Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c43f3d58b6965582",
+            "5c7869b4071411d4",
+            "8870c4a95936e4ef"
+        ],
+        "x": 1124,
+        "y": 259,
+        "w": 482,
+        "h": 82
+    },
+    {
+        "id": "2af2b489bb1c2e38",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Icon Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bcd925a263ac15b8",
+            "e967ccd028f1bc5c",
+            "26531a28bd6234bf",
+            "ac735c75a8d11038",
+            "126761f155e0849e",
+            "15a4add3fed906aa",
+            "6b0eb201a8c38b91",
+            "537b0bdce29d691f",
+            "911f1f427fbf55ab",
+            "aafb1335e32271b2"
+        ],
+        "x": 1124,
+        "y": 379,
+        "w": 822,
+        "h": 162
+    },
+    {
+        "id": "353e5707bb85bb5c",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Precipitation/ Storm Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "be013e18d7c7b000",
+            "68c6015035982bd0",
+            "73acc5bdbcf074a0",
+            "9a482e4c24b9d1a5",
+            "e557406396ae8abf",
+            "a6e660d7f5a23941"
+        ],
+        "x": 1124,
+        "y": 679,
+        "w": 352,
+        "h": 162
+    },
+    {
+        "id": "1c1c5f3a62c74233",
+        "type": "group",
+        "z": "17aeee3e892bcdce",
+        "name": "Test Kit",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2380881d8f277478",
+            "c3f0f68d9093d67b",
+            "59efb2e3260d56f0",
+            "fbc1edfcf7bb3c05",
+            "0631ba4a1d0e68f8",
+            "dbc67309b2e14131",
+            "b4997b8b69ec6960",
+            "fd4ea099293a7c29",
+            "93068bb1b05bf85e",
+            "dea023b2b0840b7a",
+            "a281c8cbb31f19d5",
+            "dd00ac1b2ae275ae",
+            "98e12a5d5a1795d6",
+            "184a0adb89109cd5",
+            "342f16783999b18c",
+            "f88986dfa3fdf16d",
+            "aa0b9007d25f2ccd"
+        ],
+        "x": 14,
+        "y": 1059,
+        "w": 742,
+        "h": 362
+    },
+    {
+        "id": "d3c0168bace35fbf",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "64a4a5965badf4ac",
+        "name": "put_data_in_object",
+        "func": "\nvar string1 = msg.payload[1].replace(\"Temperature = \", \"\");\nvar temperature = string1.replace(\"*C\", \"\")\n\nvar string2 = msg.payload[2].replace(\"Pressure = \", \"\");\nvar pressure = string2.replace(\"Pa\", \"\")\n\nmsg.payload = {\n    \"Temperature\": parseInt(temperature),\n    \"Pressure\": parseInt(pressure / 100 + 64) \n}\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 300,
+        "wires": [
+            [
+                "d46817781f9a9a0f",
+                "9858fab54cf4bdf7",
+                "e3ddc74c198bf265"
+            ]
+        ]
+    },
+    {
+        "id": "51717be2aeafb7e3",
+        "type": "ui_text",
+        "z": "17aeee3e892bcdce",
+        "g": "3f8d848065152ff8",
+        "group": "c9fdea0859523b97",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "pressure_indication",
+        "label": "<u><b>Pressure:</b></u>",
+        "format": "{{msg.payload.Pressure}} hPa",
+        "layout": "col-center",
+        "x": 1790,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "af383bb572443197",
+        "type": "ui_gauge",
+        "z": "17aeee3e892bcdce",
+        "g": "3f8d848065152ff8",
+        "name": "temperature_indication",
+        "group": "c9fdea0859523b97",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "<u><b>Temperature:</b></u>",
+        "label": "°C",
+        "format": "{{msg.payload.Temperature}}",
+        "min": "-40",
+        "max": "45",
+        "colors": [
+            "#3a88fe",
+            "#ff9300",
+            "#ca3838"
+        ],
+        "seg1": "12",
+        "seg2": "24",
+        "x": 1810,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "b20664da0206b0f6",
+        "type": "serial in",
+        "z": "17aeee3e892bcdce",
+        "g": "64a4a5965badf4ac",
+        "name": "data_from_Elegoo_Uno_BMP280",
+        "serial": "f1a59e6ad14610a3",
+        "x": 170,
+        "y": 300,
+        "wires": [
+            [
+                "c82a4f3d8f2a2207"
+            ]
+        ]
+    },
+    {
+        "id": "c82a4f3d8f2a2207",
+        "type": "join",
+        "z": "17aeee3e892bcdce",
+        "g": "64a4a5965badf4ac",
+        "name": "create array",
+        "mode": "custom",
+        "build": "array",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": false,
+        "timeout": "",
+        "count": "4",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 390,
+        "y": 300,
+        "wires": [
+            [
+                "d3c0168bace35fbf"
+            ]
+        ]
+    },
+    {
+        "id": "a12de30f5228aa44",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "e3369c7123ecbc02",
+        "name": "rules_for_clothing_recommendation",
+        "func": "\nvar temperature = flow.get(\"temperature\");\nvar tempRecommendation = \"\"\nif(temperature < -10) {\n    tempRecommendation = \"It is freezing cold outside! Put on your warmest winter look and make sure to wear more than just one layer! Use your best winter jacket and boots and make sure to put on a nice and warm scarf, gloves and hat!\"\n}\n\nif(-10 <= temperature && temperature < 0) {\n    tempRecommendation = \"Temperature is below freezing point! Put on your winter look. Use a good winter jacket and boots! Put on a warm scarf, gloves and hat!\"\n}\n\n\nif(0 <= temperature && temperature < 10) {\n    tempRecommendation = \"Temperature is cold and at or above freezing point! You might want to put on a sweater and long trousers! Use a good jacket and shoes and don´t forget to wear a scarf and hat!\"\n}\n\nif(10 <= temperature && temperature < 17) {\n    tempRecommendation = \"Temperature is fine! It is not too cold but also not too warm! Put on your between-seasons look and some layers to adapt for temperature changes! Use a light jacket and you want to put on a hat!\"\n}\n\nif(17 <= temperature && temperature < 25) {\n    tempRecommendation = \"Temperature is nice and warm! \\n Put on your spring look and take a light jacket with you just in case! \\n You might want to wear a hat or cap to protect yourself from the sun!\"\n}\nif(25 <= temperature) {\n    tempRecommendation = \"Temperature is really hot! Put on a very light summer look and wear a hat or cap to protect yourself from the sun!\"\n}\n\nmsg.payload = tempRecommendation\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1350,
+        "y": 200,
+        "wires": [
+            [
+                "b55cdaee68b608a7"
+            ]
+        ]
+    },
+    {
+        "id": "d46817781f9a9a0f",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "64a4a5965badf4ac",
+        "name": "set_flow.temperature / flow.pressure",
+        "rules": [
+            {
+                "t": "set",
+                "p": "temperature",
+                "pt": "flow",
+                "to": "payload.Temperature",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "pressure",
+                "pt": "flow",
+                "to": "payload.Pressure",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 850,
+        "y": 300,
+        "wires": [
+            [
+                "96b72673a5ddc06f"
+            ]
+        ]
+    },
+    {
+        "id": "108a40c0d9e77e90",
+        "type": "ui_text",
+        "z": "17aeee3e892bcdce",
+        "g": "3f8d848065152ff8",
+        "group": "c9fdea0859523b97",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "clothing_recommendation",
+        "label": "<u><b>Recommendation:</b></u>",
+        "format": "<justify>{{msg.payload}}</justify>",
+        "layout": "col-center",
+        "x": 1810,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "aedb8395624ec620",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "change_payload_to_pressure_add_timestamp",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.Pressure",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "",
+                "tot": "date"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 360,
+        "y": 420,
+        "wires": [
+            [
+                "4ae1ea96c013f03e"
+            ]
+        ]
+    },
+    {
+        "id": "4ae1ea96c013f03e",
+        "type": "rbe",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "value_change >= 2",
+        "func": "deadbandEq",
+        "gap": "2",
+        "start": "",
+        "inout": "out",
+        "septopics": false,
+        "property": "payload",
+        "topi": "topic",
+        "x": 130,
+        "y": 500,
+        "wires": [
+            [
+                "94b2ef638a5a4895",
+                "2c9fa3323591b92b"
+            ]
+        ]
+    },
+    {
+        "id": "94b2ef638a5a4895",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "create_timestamp_array",
+        "func": "\nvar array = global.get(\"arrayTime\")\nvar time = msg.topic\n\n\nif(array.length < 2) {\n    array.push(time)\n}\nelse {\n    array.shift()\n    array.push(time)\n}\n\nmsg.payload = array\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5388be901dd5dc59",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "b6ec5785fdb05eb0",
+        "name": "arrayTime_initiation",
+        "func": "var arrayTime = []\nglobal.set(\"arrayTime\", arrayTime)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4f1ffbfecd345483",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "b6ec5785fdb05eb0",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "5388be901dd5dc59"
+            ]
+        ]
+    },
+    {
+        "id": "1e5c69fe01829a6a",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "get_time_difference",
+        "func": "\nvar latestTime = msg.payload[1];\nvar oldTime = msg.payload[0];\n\n\n\nvar timeDiff = (latestTime - oldTime)/1000/60\n\n\n\nmsg.payload = timeDiff\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 600,
+        "wires": [
+            [
+                "93c9eb09c0d958b5"
+            ]
+        ]
+    },
+    {
+        "id": "93c9eb09c0d958b5",
+        "type": "switch",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "time_switch",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "60",
+                "vt": "num"
+            },
+            {
+                "t": "gte",
+                "v": "60",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 660,
+        "wires": [
+            [
+                "04433637f0f3f178",
+                "f60ad8c56de41936"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "04433637f0f3f178",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "set_warning_message",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "\"WARNING! There is a chance of storm and strong winds! So you better stay at home and put on a cozy sweater outfit! But if you do have to go out put on a rain jacket and take your umbrella with you!",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 660,
+        "wires": [
+            [
+                "724e8708b064fed3",
+                "09a4a93d6d6409d2"
+            ]
+        ]
+    },
+    {
+        "id": "f60ad8c56de41936",
+        "type": "delay",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "48",
+        "timeoutUnits": "hours",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 470,
+        "y": 720,
+        "wires": [
+            [
+                "55f2a22043682aad"
+            ]
+        ]
+    },
+    {
+        "id": "55f2a22043682aad",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "delete_warning_message",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 710,
+        "y": 720,
+        "wires": [
+            [
+                "ca42a32388fb2b7a",
+                "12d181f7981a2607"
+            ]
+        ]
+    },
+    {
+        "id": "2e179b1dbd70f007",
+        "type": "remote-access",
+        "z": "17aeee3e892bcdce",
+        "g": "7c2122dcf0d5956c",
+        "confignode": "fe5cdef67186adf4",
+        "name": "",
+        "verbose": 0,
+        "x": 620,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2c9fa3323591b92b",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "create_pressure_array",
+        "func": "\nvar arrayPressure = global.get(\"arrayPressure\")\nvar arrayTime = global.get(\"arrayTime\")\nvar pressure = msg.payload\n\nif(arrayPressure.length < 2) {\n    arrayPressure.push(pressure)\n}\nelse {\n    arrayPressure.shift()\n    arrayPressure.push(pressure)\n}\n\nvar diff = arrayPressure[1] - arrayPressure[0]\n\nif(diff < 0) {\n    msg.payload = arrayTime\n}\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 540,
+        "wires": [
+            [
+                "1e5c69fe01829a6a"
+            ]
+        ]
+    },
+    {
+        "id": "d6bae650d5696abd",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "b6ec5785fdb05eb0",
+        "name": "arrayPressure_initiation",
+        "func": "var arrayPressure = []\nglobal.set(\"arrayPressure\", arrayPressure)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aae827721697ca6d",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "b6ec5785fdb05eb0",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 140,
+        "wires": [
+            [
+                "d6bae650d5696abd"
+            ]
+        ]
+    },
+    {
+        "id": "3fb9575c4cdc0985",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 530,
+        "y": 800,
+        "wires": [
+            [
+                "55f2a22043682aad",
+                "ca42a32388fb2b7a"
+            ]
+        ]
+    },
+    {
+        "id": "c43f3d58b6965582",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "f918e466997042a7",
+        "name": "rules_for_precipitation_recommendation",
+        "func": "var pressure = flow.get(\"pressure\");\nvar rainRecommendation = \"\"\nif(pressure > 1013) {\n    rainRecommendation = true\n}\nif(pressure < 1013) {\n\n rainRecommendation = false\n}\nmsg.payload = rainRecommendation\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1360,
+        "y": 300,
+        "wires": [
+            [
+                "5c7869b4071411d4"
+            ]
+        ]
+    },
+    {
+        "id": "87b093b480d7a68d",
+        "type": "ui_text",
+        "z": "17aeee3e892bcdce",
+        "g": "3f8d848065152ff8",
+        "group": "c9fdea0859523b97",
+        "order": 6,
+        "width": "7",
+        "height": "3",
+        "name": "precipitation_recommendation",
+        "label": "",
+        "format": "<center>{{msg.payload}}</center>",
+        "layout": "col-center",
+        "x": 1830,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "724e8708b064fed3",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "set_warning_true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "warning",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ca42a32388fb2b7a",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "set_warning_false",
+        "rules": [
+            {
+                "t": "set",
+                "p": "warning",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "be013e18d7c7b000",
+        "type": "switch",
+        "z": "17aeee3e892bcdce",
+        "g": "353e5707bb85bb5c",
+        "name": "warning_boolean",
+        "property": "warning",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1290,
+        "y": 720,
+        "wires": [
+            [],
+            [
+                "9a482e4c24b9d1a5"
+            ]
+        ]
+    },
+    {
+        "id": "68c6015035982bd0",
+        "type": "switch",
+        "z": "17aeee3e892bcdce",
+        "g": "353e5707bb85bb5c",
+        "name": "warning_boolean",
+        "property": "warning",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1290,
+        "y": 800,
+        "wires": [
+            [
+                "a6e660d7f5a23941"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "2380881d8f277478",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 1140,
+        "wires": [
+            [
+                "c3f0f68d9093d67b"
+            ]
+        ]
+    },
+    {
+        "id": "c3f0f68d9093d67b",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "Temperature: -5 ; Pressure: 1000",
+        "func": "msg.payload = {\n    \"Temperature\": -5,\n    \"Pressure\": 1000\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1140,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "bcd925a263ac15b8",
+        "type": "template",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "umbrella_icon",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<i class=\"fa fa-umbrella fa-lg\"></i>\n{{payload}}\n",
+        "output": "str",
+        "x": 1780,
+        "y": 460,
+        "wires": [
+            [
+                "537b0bdce29d691f"
+            ]
+        ]
+    },
+    {
+        "id": "e967ccd028f1bc5c",
+        "type": "switch",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "precipitation_boolean",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1300,
+        "y": 440,
+        "wires": [
+            [
+                "ac735c75a8d11038"
+            ],
+            [
+                "26531a28bd6234bf"
+            ]
+        ]
+    },
+    {
+        "id": "26531a28bd6234bf",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "set_precipitation_message",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "There is a chance of precipitation, so take an umbrella with you!",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1540,
+        "y": 460,
+        "wires": [
+            [
+                "bcd925a263ac15b8"
+            ]
+        ]
+    },
+    {
+        "id": "ac735c75a8d11038",
+        "type": "change",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "set_noprecipitation_message",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "No precipitation is expected!",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1540,
+        "y": 420,
+        "wires": [
+            [
+                "6b0eb201a8c38b91"
+            ]
+        ]
+    },
+    {
+        "id": "126761f155e0849e",
+        "type": "template",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "bolt_icon",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<i class=\"fa fa-bolt fa-lg\"></i>\n{{payload}}",
+        "output": "str",
+        "x": 1760,
+        "y": 500,
+        "wires": [
+            [
+                "15a4add3fed906aa"
+            ]
+        ]
+    },
+    {
+        "id": "59efb2e3260d56f0",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "Temperature: 5 ; Pressure: 1013",
+        "func": "msg.payload = {\n    \"Temperature\": 5,\n    \"Pressure\": 1013\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 350,
+        "y": 1180,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "fbc1edfcf7bb3c05",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 1180,
+        "wires": [
+            [
+                "59efb2e3260d56f0"
+            ]
+        ]
+    },
+    {
+        "id": "12d181f7981a2607",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "link out 1",
+        "mode": "link",
+        "links": [
+            "d0973ddc76666f48"
+        ],
+        "x": 855,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "d0973ddc76666f48",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "3f8d848065152ff8",
+        "name": "link in 1",
+        "links": [
+            "12d181f7981a2607",
+            "15a4add3fed906aa",
+            "9a482e4c24b9d1a5"
+        ],
+        "x": 1665,
+        "y": 300,
+        "wires": [
+            [
+                "87b093b480d7a68d"
+            ]
+        ]
+    },
+    {
+        "id": "15a4add3fed906aa",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "link out 2",
+        "mode": "link",
+        "links": [
+            "d0973ddc76666f48"
+        ],
+        "x": 1855,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "09a4a93d6d6409d2",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "link out 3",
+        "mode": "link",
+        "links": [
+            "73acc5bdbcf074a0"
+        ],
+        "x": 855,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "73acc5bdbcf074a0",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "353e5707bb85bb5c",
+        "name": "link in 2",
+        "links": [
+            "09a4a93d6d6409d2"
+        ],
+        "x": 1165,
+        "y": 800,
+        "wires": [
+            [
+                "68c6015035982bd0"
+            ]
+        ]
+    },
+    {
+        "id": "9a482e4c24b9d1a5",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "353e5707bb85bb5c",
+        "name": "link out 4",
+        "mode": "link",
+        "links": [
+            "d0973ddc76666f48"
+        ],
+        "x": 1435,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "9858fab54cf4bdf7",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "64a4a5965badf4ac",
+        "name": "link out 5",
+        "mode": "link",
+        "links": [
+            "086ad730535156cb",
+            "0b5dfb99c775da5b"
+        ],
+        "x": 715,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "086ad730535156cb",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "15f834b9d1c20ab3",
+        "name": "link in 3",
+        "links": [
+            "9858fab54cf4bdf7",
+            "342f16783999b18c"
+        ],
+        "x": 145,
+        "y": 420,
+        "wires": [
+            [
+                "aedb8395624ec620"
+            ]
+        ]
+    },
+    {
+        "id": "0b5dfb99c775da5b",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "3f8d848065152ff8",
+        "name": "link in 4",
+        "links": [
+            "9858fab54cf4bdf7",
+            "342f16783999b18c"
+        ],
+        "x": 1665,
+        "y": 140,
+        "wires": [
+            [
+                "af383bb572443197",
+                "51717be2aeafb7e3"
+            ]
+        ]
+    },
+    {
+        "id": "6b0eb201a8c38b91",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "link out 6",
+        "mode": "link",
+        "links": [
+            "e557406396ae8abf"
+        ],
+        "x": 1715,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "e557406396ae8abf",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "353e5707bb85bb5c",
+        "name": "link in 5",
+        "links": [
+            "6b0eb201a8c38b91",
+            "537b0bdce29d691f"
+        ],
+        "x": 1165,
+        "y": 720,
+        "wires": [
+            [
+                "be013e18d7c7b000"
+            ]
+        ]
+    },
+    {
+        "id": "537b0bdce29d691f",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "link out 7",
+        "mode": "link",
+        "links": [
+            "e557406396ae8abf"
+        ],
+        "x": 1905,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "a6e660d7f5a23941",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "353e5707bb85bb5c",
+        "name": "link out 8",
+        "mode": "link",
+        "links": [
+            "911f1f427fbf55ab"
+        ],
+        "x": 1435,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "911f1f427fbf55ab",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "link in 6",
+        "links": [
+            "a6e660d7f5a23941"
+        ],
+        "x": 1665,
+        "y": 500,
+        "wires": [
+            [
+                "126761f155e0849e"
+            ]
+        ]
+    },
+    {
+        "id": "0663192a6bb01724",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "3f8d848065152ff8",
+        "name": "link in 7",
+        "links": [
+            "b55cdaee68b608a7"
+        ],
+        "x": 1665,
+        "y": 240,
+        "wires": [
+            [
+                "108a40c0d9e77e90"
+            ]
+        ]
+    },
+    {
+        "id": "b55cdaee68b608a7",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "e3369c7123ecbc02",
+        "name": "link out 9",
+        "mode": "link",
+        "links": [
+            "0663192a6bb01724"
+        ],
+        "x": 1545,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "5c7869b4071411d4",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "f918e466997042a7",
+        "name": "link out 10",
+        "mode": "link",
+        "links": [
+            "aafb1335e32271b2"
+        ],
+        "x": 1565,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "aafb1335e32271b2",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "2af2b489bb1c2e38",
+        "name": "link in 8",
+        "links": [
+            "5c7869b4071411d4"
+        ],
+        "x": 1165,
+        "y": 440,
+        "wires": [
+            [
+                "e967ccd028f1bc5c"
+            ]
+        ]
+    },
+    {
+        "id": "0631ba4a1d0e68f8",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 110,
+        "y": 1380,
+        "wires": [
+            [
+                "dbc67309b2e14131"
+            ]
+        ]
+    },
+    {
+        "id": "dbc67309b2e14131",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "test_function (Temperature (-40, 45) and Pressure (950, 1060))",
+        "func": "\nfunction getRandomIntInclusive(min, max) {\n    min = Math.ceil(min);\n    max = Math.floor(max);\n    return Math.floor(Math.random() * (max - min + 1) + min);\n}\n\nvar temperature = getRandomIntInclusive(-40, 45)\nvar pressure = getRandomIntInclusive(950, 1060)\n\nmsg.payload = {\n    \"Temperature\": temperature,\n    \"Pressure\": pressure\n}\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 1380,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "2c94d7e3e16aeb8c",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "e3369c7123ecbc02",
+        "name": "link in 9",
+        "links": [
+            "96b72673a5ddc06f"
+        ],
+        "x": 1165,
+        "y": 200,
+        "wires": [
+            [
+                "a12de30f5228aa44"
+            ]
+        ]
+    },
+    {
+        "id": "96b72673a5ddc06f",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "64a4a5965badf4ac",
+        "name": "link out 11",
+        "mode": "link",
+        "links": [
+            "2c94d7e3e16aeb8c",
+            "8870c4a95936e4ef"
+        ],
+        "x": 1045,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "8870c4a95936e4ef",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "f918e466997042a7",
+        "name": "link in 10",
+        "links": [
+            "96b72673a5ddc06f"
+        ],
+        "x": 1165,
+        "y": 300,
+        "wires": [
+            [
+                "c43f3d58b6965582"
+            ]
+        ]
+    },
+    {
+        "id": "fd4ea099293a7c29",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "Temperature: -40 ; Pressure: 950",
+        "func": "msg.payload = {\n    \"Temperature\": -30,\n    \"Pressure\": 950\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1100,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "b4997b8b69ec6960",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 1100,
+        "wires": [
+            [
+                "fd4ea099293a7c29"
+            ]
+        ]
+    },
+    {
+        "id": "dea023b2b0840b7a",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "Temperature: 13 ; Pressure: 1020",
+        "func": "msg.payload = {\n    \"Temperature\": 13,\n    \"Pressure\": 1020\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1220,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "93068bb1b05bf85e",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 1220,
+        "wires": [
+            [
+                "dea023b2b0840b7a"
+            ]
+        ]
+    },
+    {
+        "id": "dd00ac1b2ae275ae",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "Temperature: 20 ; Pressure: 1040",
+        "func": "msg.payload = {\n    \"Temperature\": 20,\n    \"Pressure\": 1040\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1260,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "a281c8cbb31f19d5",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 1260,
+        "wires": [
+            [
+                "dd00ac1b2ae275ae"
+            ]
+        ]
+    },
+    {
+        "id": "184a0adb89109cd5",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "Temperature: 30 ; Pressure: 1050",
+        "func": "msg.payload = {\n    \"Temperature\": 30,\n    \"Pressure\": 1050\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1300,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "98e12a5d5a1795d6",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 1300,
+        "wires": [
+            [
+                "184a0adb89109cd5"
+            ]
+        ]
+    },
+    {
+        "id": "342f16783999b18c",
+        "type": "link out",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "link out 12",
+        "mode": "link",
+        "links": [
+            "0b5dfb99c775da5b",
+            "086ad730535156cb",
+            "80d031ed80797892",
+            "045eb55db0f452f6"
+        ],
+        "x": 715,
+        "y": 1220,
+        "wires": []
+    },
+    {
+        "id": "045eb55db0f452f6",
+        "type": "link in",
+        "z": "17aeee3e892bcdce",
+        "g": "64a4a5965badf4ac",
+        "name": "link in 11",
+        "links": [
+            "342f16783999b18c"
+        ],
+        "x": 645,
+        "y": 260,
+        "wires": [
+            [
+                "d46817781f9a9a0f"
+            ]
+        ]
+    },
+    {
+        "id": "f88986dfa3fdf16d",
+        "type": "inject",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 1340,
+        "wires": [
+            [
+                "aa0b9007d25f2ccd"
+            ]
+        ]
+    },
+    {
+        "id": "aa0b9007d25f2ccd",
+        "type": "function",
+        "z": "17aeee3e892bcdce",
+        "g": "1c1c5f3a62c74233",
+        "name": "Temperature: 45 ; Pressure: 1060",
+        "func": "msg.payload = {\n    \"Temperature\": 45,\n    \"Pressure\": 1060\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1340,
+        "wires": [
+            [
+                "342f16783999b18c"
+            ]
+        ]
+    },
+    {
+        "id": "e3ddc74c198bf265",
+        "type": "debug",
+        "z": "17aeee3e892bcdce",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 500,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "b44c7e47f98cea4e",
+        "type": "ui_spacer",
+        "z": "17aeee3e892bcdce",
+        "name": "spacer",
+        "group": "c9fdea0859523b97",
+        "order": 3,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "3e6392be4d40e52f",
+        "type": "ui_spacer",
+        "z": "17aeee3e892bcdce",
+        "name": "spacer",
+        "group": "c9fdea0859523b97",
+        "order": 5,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "c9fdea0859523b97",
+        "type": "ui_group",
+        "name": "Smart Recommendation App",
+        "tab": "34c741bb3e2ffdbe",
+        "order": 1,
+        "disp": false,
+        "width": "7",
+        "collapse": false
+    },
+    {
+        "id": "f1a59e6ad14610a3",
+        "type": "serial-port",
+        "serialport": "/dev/tty.usbmodem141101",
+        "serialbaud": "9600",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "fe5cdef67186adf4",
+        "type": "remote-config",
+        "name": "Smart Recommendation App",
+        "host": "localhost",
+        "protocol": "http",
+        "port": "1880",
+        "baseurl": "/ui",
+        "instancehash": "tcbbmzrjwnhjgf315zsi0jizpulgdwkwziq93jle5k6447xodbpp9kx00k9o7hea",
+        "server": "nodered04.remote-red.com",
+        "region": "de"
+    },
+    {
+        "id": "34c741bb3e2ffdbe",
+        "type": "ui_tab",
+        "name": "Smart Recommendation App",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
