@@ -1,5 +1,5 @@
 # Smart-Recommendation-System
-This is a "Smart Recommendation System" which I built in Node-RED to give the user clothing recommendations based on temperature and pressure data from a BMP280-Sensor through a Microcontroller (Elegoo Uno)
+This "Smart Recommendation System" was built in Node-RED to give the user clothing recommendations based on temperature and pressure data from a BMP280-Sensor through a Microcontroller (Elegoo Uno). It was created for a project in my studies of economical engineering in the module "Smart Devices" at "IU Internationale Hochschule".
 
 In this Repository I appendet a JASON file which has to be imported into Node-RED.
 
